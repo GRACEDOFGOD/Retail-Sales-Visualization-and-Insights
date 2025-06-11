@@ -1,4 +1,4 @@
-# 📊 Sales Data Analysis: Uncovering Trends and Insights
+# 📊 Sales Data Analysis and Visualization with Python: Uncovering Trends and Insights
 
 In today’s competitive market, understanding customer behavior and optimizing sales strategies is crucial. This project performs an end-to-end analysis of real-world sales data to extract actionable insights.
 
